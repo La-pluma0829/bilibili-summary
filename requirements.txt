@@ -1,0 +1,5 @@
+# Subtitle extraction, audio decoding, local ASR, and visual sampling.
+yt-dlp>=2026.8.19
+openai-whisper>=20250625
+av>=14
+Pillow>=10
